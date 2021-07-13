@@ -1,65 +1,67 @@
-[ 
-      {
-         "date": "2018-08-18T09:52:30z",
-         "request": {
-            "http_version": "1.0",
-            "user_agent": "Postman",
-            "remote_address": "127.0.0.1",
-            "operator": "GET",
-            "path": "/v1/users",
-            "resource": "users",
-            "body": {}
-         },
-         "user": {
-            "id": "5da8dd8d83fd4835257f0c46",
-            "type": "admin"
-         },
-         "success": "yes",
-         "response": {
-            "code": "200",
-            "body": {}
-         }
-      },
-      {
-         "date": "2018-08-18T09:52:30z",
-         "request": {
-            "http_version": "1.0",
-            "user_agent": "Postman",
-            "remote_address": "127.0.0.1",
-            "operator": "GET",
-            "path": "/v1/users",
-            "resource": "users",
-            "body": {}
-         },
-         "user": {
-            "id": "5da8dd8d83fd4835257f0c46",
-            "type": "admin"
-         },
-         "success": "yes",
-         "response": {
-            "code": "200",
-            "body": {}
-         }
-      },
-      {
-         "date": "2018-08-18T09:52:30z",
-         "request": {
-            "http_version": "1.0",
-            "user_agent": "Postman",
-            "remote_address": "127.0.0.1",
-            "operator": "GET",
-            "path": "/v1/users",
-            "resource": "users",
-            "body": {}
-         },
-         "user": {
-            "id": "5da8dd8d83fd4835257f0c46",
-            "type": "admin"
-         },
-         "success": "yes",
-         "response": {
-            "code": "200",
-            "body": {}
-         }
-      }
-   ]
+{
+      "data": [
+            {
+               "date": "2018-08-18T09:52:30z",
+               "request": {
+                  "http_version": "1.0",
+                  "user_agent": "Postman",
+                  "remote_address": "127.0.0.1",
+                  "operator": "GET",
+                  "path": "/v1/users",
+                  "resource": "users",
+                  "body": {}
+               },
+               "user": {
+                  "id": "5da8dd8d83fd4835257f0c46",
+                  "type": "admin"
+               },
+               "success": "yes",
+               "response": {
+                  "code": "200",
+                  "body": {}
+               }
+            },
+            {
+               "date": "2018-08-18T09:52:30z",
+               "request": {
+                  "http_version": "1.0",
+                  "user_agent": "Postman",
+                  "remote_address": "127.0.0.1",
+                  "operator": "GET",
+                  "path": "/v1/users",
+                  "resource": "users",
+                  "body": {}
+               },
+               "user": {
+                  "id": "5da8dd8d83fd4835257f0c46",
+                  "type": "admin"
+               },
+               "success": "yes",
+               "response": {
+                  "code": "200",
+                  "body": {}
+               }
+            },
+            {
+               "date": "2018-08-18T09:52:30z",
+               "request": {
+                  "http_version": "1.0",
+                  "user_agent": "Postman",
+                  "remote_address": "127.0.0.1",
+                  "operator": "GET",
+                  "path": "/v1/users",
+                  "resource": "users",
+                  "body": {}
+               },
+               "user": {
+                  "id": "5da8dd8d83fd4835257f0c46",
+                  "type": "admin"
+               },
+               "success": "yes",
+               "response": {
+                  "code": "200",
+                  "body": {}
+               }
+            }
+      ]
+}
